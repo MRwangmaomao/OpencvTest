@@ -1,0 +1,1 @@
+/home/wpr/code/opencv_test/2Core/2ScanImage/CMakeFiles/2ScanImage.dir

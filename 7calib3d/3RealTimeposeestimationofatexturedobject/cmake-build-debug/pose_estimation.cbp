@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pose_estimation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\opencv320\;CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\;CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pnp_detection">
+				<Option output="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/pnp_detection" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/opencv320/include"/>
+					<Add directory="/usr/local/opencv320/include/opencv"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 pnp_detection"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pnp_detection/fast">
+				<Option output="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/pnp_detection" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/opencv320/include"/>
+					<Add directory="/usr/local/opencv320/include/opencv"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 pnp_detection/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pnp_registration">
+				<Option output="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/pnp_registration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/opencv320/include"/>
+					<Add directory="/usr/local/opencv320/include/opencv"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 pnp_registration"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pnp_registration/fast">
+				<Option output="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/pnp_registration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/opencv320/include"/>
+					<Add directory="/usr/local/opencv320/include/opencv"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 pnp_registration/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/CsvReader.cpp">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/CsvReader.h">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/CsvWriter.cpp">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/CsvWriter.h">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/Mesh.cpp">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/Mesh.h">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/Model.cpp">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/Model.h">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/ModelRegistration.cpp">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/ModelRegistration.h">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/PnPProblem.cpp">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/PnPProblem.h">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/RobustMatcher.cpp">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/RobustMatcher.h">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/Utils.cpp">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/Utils.h">
+			<Option target="pnp_detection"/>
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/main_detection.cpp">
+			<Option target="pnp_detection"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/main_registration.cpp">
+			<Option target="pnp_registration"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

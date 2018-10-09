@@ -1,0 +1,30 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/CsvReader.cpp" "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir/src/CsvReader.cpp.o"
+  "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/CsvWriter.cpp" "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir/src/CsvWriter.cpp.o"
+  "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/Mesh.cpp" "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir/src/Mesh.cpp.o"
+  "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/Model.cpp" "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir/src/Model.cpp.o"
+  "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/ModelRegistration.cpp" "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir/src/ModelRegistration.cpp.o"
+  "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/PnPProblem.cpp" "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir/src/PnPProblem.cpp.o"
+  "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/RobustMatcher.cpp" "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir/src/RobustMatcher.cpp.o"
+  "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/Utils.cpp" "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir/src/Utils.cpp.o"
+  "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/src/main_registration.cpp" "/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir/src/main_registration.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/usr/local/opencv320/include"
+  "/usr/local/opencv320/include/opencv"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

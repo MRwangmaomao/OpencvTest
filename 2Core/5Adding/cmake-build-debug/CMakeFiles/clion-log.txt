@@ -1,0 +1,5 @@
+/home/wpr/桌面/clion-2018.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wpr/code/opencv_test/2Core/5Adding
+-- Found OpenCV: /usr/local/opencv320 (found version "3.2.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wpr/code/opencv_test/2Core/5Adding/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/1Introduction_opencv.dir/main.cpp.o  -o 1Introduction_opencv 

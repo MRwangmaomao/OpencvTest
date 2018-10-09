@@ -1,0 +1,3 @@
+/home/wpr/code/opencv_test/2Core/8FileInOut/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wpr/code/opencv_test/2Core/8FileInOut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpr/code/opencv_test/2Core/8FileInOut/cmake-build-debug/CMakeFiles/8FileInOut.dir

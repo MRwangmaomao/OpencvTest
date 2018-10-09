@@ -1,0 +1,3 @@
+/home/wpr/code/opencv_test/8feature2d/2Shi-Tomasicornerdetector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpr/code/opencv_test/8feature2d/2Shi-Tomasicornerdetector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wpr/code/opencv_test/8feature2d/2Shi-Tomasicornerdetector/cmake-build-debug/CMakeFiles/2Shi_Tomasicornerdetector.dir

@@ -1,0 +1,3 @@
+/home/wpr/code/opencv_test/8feature2d/4Detectingcornerslocationinsubpixels/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wpr/code/opencv_test/8feature2d/4Detectingcornerslocationinsubpixels/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpr/code/opencv_test/8feature2d/4Detectingcornerslocationinsubpixels/cmake-build-debug/CMakeFiles/4Detectingcornerslocationinsubpixels.dir

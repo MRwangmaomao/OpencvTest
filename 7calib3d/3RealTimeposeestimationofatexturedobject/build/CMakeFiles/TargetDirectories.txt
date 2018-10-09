@@ -1,0 +1,2 @@
+/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/build/CMakeFiles/pnp_registration.dir
+/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/build/CMakeFiles/pnp_detection.dir

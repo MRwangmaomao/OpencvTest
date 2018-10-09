@@ -1,0 +1,4 @@
+/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_detection.dir
+/home/wpr/code/opencv_test/7calib3d/3RealTimeposeestimationofatexturedobject/cmake-build-debug/CMakeFiles/pnp_registration.dir

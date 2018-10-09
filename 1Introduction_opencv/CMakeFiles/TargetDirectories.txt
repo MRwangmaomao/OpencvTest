@@ -1,0 +1,3 @@
+/home/wpr/code/opencv_test/1Introduction_opencv/CMakeFiles/rebuild_cache.dir
+/home/wpr/code/opencv_test/1Introduction_opencv/CMakeFiles/edit_cache.dir
+/home/wpr/code/opencv_test/1Introduction_opencv/CMakeFiles/1Introduction_opencv.dir
