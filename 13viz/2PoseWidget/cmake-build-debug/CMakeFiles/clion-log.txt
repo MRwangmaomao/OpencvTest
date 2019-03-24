@@ -1,0 +1,5 @@
+/home/wpr/下载/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wpr/code/OpencvTest/13viz/2PoseWidget
+-- Found OpenCV: /usr/local/opencv320 (found version "3.4.3") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wpr/code/OpencvTest/13viz/2PoseWidget/cmake-build-debug

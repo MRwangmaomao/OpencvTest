@@ -1,4 +1,4 @@
-# Install script for directory: /home/wpr/code/opencv_test/8feature2d/6FeatureDescription
+# Install script for directory: /home/wpr/code/OpencvTest/8feature2d/6FeatureDescription
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

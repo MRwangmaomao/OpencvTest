@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\opencv320\;CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\;CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug"/>
+				<Option working_dir="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug"/>
+				<Option working_dir="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug"/>
+				<Option working_dir="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="6FeatureDescription">
-				<Option output="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/6FeatureDescription" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug"/>
+				<Option output="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/6FeatureDescription" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -56,15 +56,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 6FeatureDescription"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 6FeatureDescription"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="6FeatureDescription/fast">
-				<Option output="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/6FeatureDescription" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug"/>
+				<Option output="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/6FeatureDescription" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -81,29 +81,29 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 6FeatureDescription/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 6FeatureDescription/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/main.cpp">
+		<Unit filename="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/main.cpp">
 			<Option target="6FeatureDescription"/>
 		</Unit>
-		<Unit filename="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/CMakeLists.txt">
+		<Unit filename="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVConfig-version.cmake">
+		<Unit filename="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVConfig-version.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVConfig.cmake">
+		<Unit filename="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVModules-release.cmake">
+		<Unit filename="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVModules-release.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/home/wpr/code/opencv_test/8feature2d/6FeatureDescription/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVModules.cmake">
+		<Unit filename="/home/wpr/code/OpencvTest/8feature2d/6FeatureDescription/../../../../../../usr/local/opencv320/share/OpenCV/OpenCVModules.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv320\share\OpenCV\"/>
 		</Unit>
 	</Project>
